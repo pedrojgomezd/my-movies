@@ -1,4 +1,6 @@
-# my-movies
+# My Movies
+
+Un pequeño proyecto para desarrollar habilidades con VueJS.
 
 ## Project setup
 ```
